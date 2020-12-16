@@ -455,8 +455,8 @@ Docker به عنوان جزئی از سری پیوسته integration با ابز
 # ✍️ توسعه دهندگان:
 
 لیست نام‌های توسعه‌دهندگان به همراه لینک پروفایل گیت‌هاب آن به ترتیب حروف الفبا به شرح زیر است:
-- [علی پورقاسمی](https://github.com/sh3rLock3d)
 - [اسماعیل پاهنگ](https://github.com/esmaeil1377)
+- [علی پورقاسمی](https://github.com/sh3rLock3d)
 - [محمد فتاح](https://github.com/mohammad-fattah)
 
 
